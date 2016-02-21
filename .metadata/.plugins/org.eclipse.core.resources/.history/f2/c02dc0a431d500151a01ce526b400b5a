@@ -1,0 +1,4 @@
+-12; -9; 1; 5; 10; 10; 12; 100; 200; 200; 201; 201; 300; 300; 301; 301; 302; 302
+Performance analysis:
+Size 		 Sorting Time(in milliseconds)
+18				 0.0 
